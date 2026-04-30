@@ -2,7 +2,7 @@
 
 A modern **scientific calculator** built with **C**, using the **Windows API** and the **[tinyexpr](https://github.com/codeplea/tinyexpr)** library for expression parsing and evaluation.
 
-It supports arithmetic, trigonometric, logarithmic, exponential, and power operations — all through a clean graphical interface.
+It supports arithmetic, trigonometric, logarithmic, exponential, and power operations —   all through a clean graphical interface.
 
 ---
 
