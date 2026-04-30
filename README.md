@@ -66,7 +66,7 @@ Displays calculator handling complex numbers in algebraic form using the 'i' not
 ## 📁 File Structure
 
 ```
-├── calc.c      # Main source code
+├── calc.c            # Main source code
 ├── tinyexpr.c/.h     # Expression parsing library
 └── README.md         # Project documentation
 ```
