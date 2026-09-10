@@ -75,7 +75,7 @@ Displays calculator handling complex numbers in algebraic form using the 'i' not
 
 ## 💻 Author
 
-**Yousef Hamdy**  
+**Mazen Mahmoud / Yousef Hamdy**  
 [GitHub](https://github.com/yousef-788)  
 [LinkedIn](https://www.linkedin.com/in/yousef-hamdy-ee)
 
